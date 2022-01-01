@@ -1,5 +1,5 @@
 __pycache__/
 *.egg-info/
 .DS_Store
-/notebooks/samples*
+/notebooks/*samples*
 /notebooks/glide_model_cache/*
